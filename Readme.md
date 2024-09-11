@@ -11,7 +11,9 @@
 > 2. Install requirements = pip install -r requirements.txt
 
 > 3. Setup Postgres = (I have setup my own local postgres. SO Please setup accordingly or just use default sqlite one)
+y
 
+### Please Uncomment the Postgres Database in settings.py and comment sqlite Db if you want to poceed with Postgres. I have created setup for both.
 
 ### Postgres Local setup creds: 
 ```
