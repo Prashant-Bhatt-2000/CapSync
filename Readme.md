@@ -6,7 +6,7 @@
 
 ## SetUp Project 
 
-> 1. Git Clone = 
+> 1. Git Clone = git clone https://github.com/Prashant-Bhatt-2000/CapSync.git
 
 > 2. Install requirements = pip install -r requirements.txt
 
