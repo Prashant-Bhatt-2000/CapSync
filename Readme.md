@@ -87,6 +87,8 @@ EMAIL_HOST_PASSWORD = 'Please Generate your own app password from Gmail App Pass
 
 ---
 
+#### After vedio Upload the subtitles will be saved in a Subtitle table with vedio id.
+
     > Get Subtitle API = http://localhost:8000/api/vedio/getsubtitles/<video_id>
 
 
